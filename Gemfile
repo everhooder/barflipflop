@@ -6,6 +6,7 @@ gem 'rails', '4.0.0'
 gem "heroku"
 gem 'thin'
 gem 'rails_12factor', group: :production
+gem "pg"
 
 # Use sqlite3 as the database for Active Record
 group :development, :test do
