@@ -7999,3 +7999,318 @@ Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-08 23:17:44 +01
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-08 23:17:44 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 32ms (Views: 31.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/layouts.css?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/flipfloppers.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-08 23:20:57 +0100
+
+
+Started GET "/flipfloppers/new" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+Processing by FlipfloppersController#new as HTML
+  Rendered flipfloppers/_form.html.erb (76.1ms)
+  Rendered flipfloppers/new.html.erb within layouts/application (82.9ms)
+Completed 200 OK in 101ms (Views: 95.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/flipfloppers.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:01 +0100
+
+
+Started GET "/flipfloppers/new" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+Processing by FlipfloppersController#new as HTML
+  Rendered flipfloppers/_form.html.erb (9.2ms)
+  Rendered flipfloppers/new.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 28ms (Views: 26.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/flipfloppers.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:04 +0100
+
+
+Started GET "/flipfloppers" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+Processing by FlipfloppersController#index as HTML
+  [1m[35mFlipflopper Load (0.2ms)[0m  SELECT "flipfloppers".* FROM "flipfloppers"
+  Rendered flipfloppers/index.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 20ms (Views: 18.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/flipfloppers.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-08 23:21:08 +0100
